@@ -1,0 +1,8 @@
+{
+    "title": "ChatClient",
+    "identifier": "com.yourcompany.wizardEVAP.ChatClient",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
